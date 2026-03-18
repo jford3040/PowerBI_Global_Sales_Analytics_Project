@@ -1,125 +1,142 @@
-# 📊 Global Sales Performance Dashboard (Power BI)
+📊 Global Sales Performance Dashboard (Power BI)
 
-## Overview
+⚡ Interactive Power BI dashboard analyzing global sales performance across products, regions, and key business metrics.
 
-This project presents an interactive Power BI dashboard designed to analyze global sales performance across products, regions, and key business metrics. The report enables stakeholders to quickly assess trends, identify high-performing segments, and drill into detailed sales data for decision-making.
+👉 Live Dashboard: View in Power BI
 
-The dashboard is structured to move from **high-level insights to granular analysis**, supporting both executive summaries and operational deep dives.
+📌 Overview
 
----
+This project presents an end-to-end Power BI solution designed to analyze global sales data across multiple dimensions, including product performance, regional trends, and time-based metrics.
 
-## 🎯 Objectives
+The report is structured to guide users from high-level executive insights to detailed operational analysis, enabling both quick decision-making and deep exploration.
 
-* Analyze global sales performance across multiple dimensions
-* Identify top-performing products and regions
-* Enable drill-down into transaction-level or product-level detail
-* Demonstrate advanced Power BI capabilities including **data modeling and DAX**
+🎯 Objectives
 
----
+Evaluate global sales performance across products and regions
 
-## 📌 Dashboard Structure
+Identify top-performing segments and growth opportunities
 
-### 1. Overview
+Enable drill-down into granular sales data
 
-* High-level KPIs and performance summaries
-* Trend analysis of revenue and sales metrics
-* Designed for quick executive insights
+Demonstrate advanced Power BI capabilities (data modeling + DAX)
 
-### 2. DAX Demos
+📷 Dashboard Preview
+Overview Page
+<p align="center"> <img src="assets/Overview_Page.png" width="700"/> </p>
+Product Sales Details
+<p align="center"> <img src="assets/Product_Info_Page.png" width="700"/> </p>
+Global Sales Dashboard
+<p align="center"> <img src="assets/Global_Sales_Dashboard.png" width="700"/> </p>
+🧠 Key Insights
 
-* Dedicated page showcasing advanced DAX calculations
-* Highlights ability to:
+Sales performance varies significantly across regions, highlighting opportunities for targeted market strategies
 
-  * Create dynamic measures
-  * Implement business logic
-  * Perform time-based and conditional analysis
+A subset of products consistently drives revenue, indicating strong product-market fit
 
-### 3. Product Sales Details
+Time-based trends reveal potential seasonality and demand fluctuations
 
-* Granular breakdown of sales by product
-* Enables detailed comparison across categories and SKUs
-* Supports filtering and drill-through for deeper exploration
+🧱 Dashboard Structure
+1. Overview
 
-### 4. Sales Regions
+High-level KPIs and summary metrics
 
-* Geographic analysis of sales performance
-* Identifies regional trends and disparities
-* Useful for market-level strategy and resource allocation
+Trend analysis for revenue and sales performance
 
----
+Designed for executive-level consumption
 
-## 🧠 Key Insights (Example)
+2. DAX Demos
 
-* Sales performance varies significantly across regions, indicating opportunities for targeted growth strategies
-* Certain products consistently outperform others, suggesting strong product-market fit
-* Time-based trends reveal seasonality and demand patterns
+Dedicated page showcasing advanced DAX capabilities
 
----
+Includes:
 
-## 🛠️ Technical Highlights
+Custom measures
 
-### Data Modeling
+Conditional logic
 
-* Structured data model supporting multi-dimensional analysis
-* Relationships designed to enable efficient filtering and aggregation
+Analytical calculations
 
-### DAX (Data Analysis Expressions)
+3. Product Sales Details
 
-* Custom measures for KPIs and derived metrics
-* Use of conditional logic and aggregations
-* Demonstration of analytical thinking through calculated insights
+Granular breakdown of sales by product and category
 
-### Data Transformation
+Supports filtering and comparison across dimensions
 
-* Data cleaning and shaping performed in Power Query
-* Preparation of datasets for reporting and performance optimization
+4. Sales Regions
 
----
+Geographic performance analysis
 
-## 📊 Data Visualization & Design
+Highlights regional disparities and growth opportunities
 
-* Clear separation between summary and detail views
-* Effective use of:
+🛠️ Technical Highlights
+Data Modeling
 
-  * KPI cards for quick insights
-  * Trend charts for time-series analysis
-  * Comparative visuals for product and regional performance
-* Layout designed for intuitive navigation and usability
+Structured relational model enabling multi-dimensional analysis
 
----
+Optimized relationships for filtering and aggregation
 
-## 🚀 Tools & Skills Demonstrated
+DAX (Data Analysis Expressions)
 
-* Power BI
-* Data Modeling
-* DAX (Advanced Measures & Calculations)
-* Data Visualization & Storytelling
-* Business Analysis
-* Dashboard Design
+Custom KPI measures
 
----
+Aggregations and calculated metrics
 
-## 📷 Dashboard Preview
+Business logic implementation for deeper insights
 
-### Overview Page
-![Overview Page](assets/Overview_Page.png)
+Data Transformation (Power Query)
 
-### Product Sales Details
-![Product Details](assets/Product_Info_Page.png)
+Data cleaning and shaping
 
-### Regional Analysis
-![Global Sales Dashboard](assets/Global_Sales_Dashboard.png)
+Preparation of datasets for efficient reporting
 
----
+🎨 Visualization & Design Approach
 
-## 📂 How to Use
+Clear separation between summary and detail views
 
-1. Download the `.pbix` file from this repository
-2. Open in Power BI Desktop
-3. Interact with filters and visuals to explore the data
+Emphasis on usability and intuitive navigation
 
----
+Effective use of:
 
-## 💡 Notes
+KPI cards for quick insights
 
-This project is intended to demonstrate both technical proficiency in Power BI and the ability to translate data into actionable business insights.
+Trend visuals for time-series analysis
+
+Comparative charts for product and regional performance
+
+🚀 Tools & Skills Demonstrated
+
+Power BI
+
+Data Modeling
+
+DAX (Advanced Calculations)
+
+Data Visualization & Storytelling
+
+Business Analysis
+
+🌐 Live Dashboard & Files
+
+Interactive Dashboard (Power BI Service):
+👉 https://app.powerbi.com/groups/me/dashboards/e7a1c34b-e269-4d45-a16b-6458baad1220?experience=power-bi
+
+Note: Access may require Power BI login/permissions.
+
+PBIX File:
+Available in this repository for download and exploration
+
+📂 How to Use
+
+Download the .pbix file from this repository
+
+Open using Power BI Desktop
+
+Interact with filters and visuals to explore insights
+
+💡 Notes
+
+This project is designed to showcase both:
+
+Technical proficiency in Power BI
+
+The ability to translate data into actionable business insights
