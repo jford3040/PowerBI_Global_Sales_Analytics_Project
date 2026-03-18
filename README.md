@@ -102,13 +102,13 @@ The dashboard is structured to move from **high-level insights to granular analy
 ## 📷 Dashboard Preview
 
 ### Overview Page
-![Overview Page](assets/Overview Page.png)
+![Overview Page](assets/Overview_Page.png)
 
 ### Product Sales Details
-![Product Details](assets/Product Info Page.png)
+![Product Details](assets/Product_Info_Page.png)
 
 ### Regional Analysis
-![Global Sales Dashboard](assets/Global Sales Dashboard.png)
+![Global Sales Dashboard](assets/Global_Sales_Dashboard.png)
 
 ---
 
