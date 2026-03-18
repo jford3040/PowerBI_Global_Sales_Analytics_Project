@@ -7,9 +7,9 @@
 ---
 
 ## 📌 Overview
-This project presents an end-to-end Power BI solution designed to analyze global sales data across multiple dimensions, including product performance, regional trends, and time-based metrics.
+This project presents an end-to-end Power BI solution designed to analyze global sales data across multiple dimensions, including product performance, regional trends, and time-based metrics, using a hypothetical dataset from the fictitious company Adventure Works.
 
-The report is structured to guide users from **high-level executive insights to detailed operational analysis**, enabling both quick decision-making and deep exploration.
+The report is structured to guide users from **high-level executive insights to detailed operational analysis,** enabling both quick decision-making and deep exploration.
 
 ---
 
