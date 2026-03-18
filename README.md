@@ -2,7 +2,7 @@
 
 > ⚡ Interactive Power BI dashboard analyzing global sales performance across products, regions, and key business metrics.
 
-👉 **Live Dashboard:** [View in Power BI](YOUR_PUBLIC_LINK_OR_KEEP_PRIVATE_LINK)
+👉 **Live Dashboard:** [View in Power BI]([YOUR_PUBLIC_LINK_OR_KEEP_PRIVATE_LINK](https://app.powerbi.com/groups/me/dashboards/e7a1c34b-e269-4d45-a16b-6458baad1220?experience=power-bi))
 
 ---
 
@@ -110,7 +110,7 @@ The report is structured to guide users from **high-level executive insights to 
 ## 🌐 Live Dashboard & Files
 
 - **Interactive Dashboard (Power BI Service):**  
-  👉 https://app.powerbi.com/groups/me/dashboards/e7a1c34b-e269-4d45-a16b-6458baad1220?experience=power-bi  
+  👉 [Live Global Sales Dashboard](https://app.powerbi.com/groups/me/dashboards/e7a1c34b-e269-4d45-a16b-6458baad1220?experience=power-bi)
 
 > *Note: Access may require Power BI login/permissions.*
 
