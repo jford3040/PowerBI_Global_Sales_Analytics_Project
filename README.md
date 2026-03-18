@@ -25,17 +25,17 @@ The report is structured to guide users from **high-level executive insights to 
 
 ### Overview Page
 <p align="center">
-  <img src="assets/overview.png" width="700"/>
+  <img src="Assets/Overview_Page.png" width="700"/>
 </p>
 
 ### Product Sales Details
 <p align="center">
-  <img src="assets/product-details.png" width="700"/>
+  <img src="Assets/Product_Info_Page.png" width="700"/>
 </p>
 
-### Regional Analysis
+### Global Sales Dashboard
 <p align="center">
-  <img src="assets/regions.png" width="700"/>
+  <img src="Assets/Global_Sales_Dashboard.png" width="700"/>
 </p>
 
 ---
